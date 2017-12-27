@@ -1,0 +1,1 @@
+var recipes = {recipe1:ingredients1, recipes2:ingredients2}
