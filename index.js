@@ -1,1 +1,1 @@
-var recipes = {recipe1:ingredients1, recipes2:ingredients2}
+var recipes = new Object({recipe1:ingredients1, recipes2:ingredients2})
